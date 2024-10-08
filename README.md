@@ -1,6 +1,10 @@
 Author: Ege Kingir (ege.kingir@med.uni-goettingen.de)
 
-This repo will include some preprocessing or processing functions for EEG data.
-The functions here will mostly correspond to EEG processing/analysis steps for which I could not find a ready-to-use script in MATLAB, so I had to write them myself.
+I am a PhD student in neuroscience who records and processes 4 different time series data from human subjects:
+  1) EEG
+  2) ECG
+  3) Breathing
+  4) Eye-tracking
+This repo will include some pre/processing functions for these time series.
 Hopefully something from this repository can help a bunch of other people with their EEG analysis in the future.
 All the functions here are for public use.
