@@ -1,6 +1,6 @@
 Author: Ege Kingir (ege.kingir@med.uni-goettingen.de)
 
-I am a PhD student in neuroscience who records and processes 4 different time series data from human subjects:
+I am a PhD student in neuroscience who records and processes 4 types of time series data from human subjects:
   1) EEG
   2) ECG
   3) Breathing
